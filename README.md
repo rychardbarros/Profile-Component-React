@@ -2,7 +2,7 @@
 
 The aim of this project is to create a component for a user profile using React + Vite with the aim of practicing the use of props.
 
-link:
+link: https://profile-component-react.vercel.app/
 
 Technologies:
 - TypeScript
